@@ -1,0 +1,6 @@
+{
+  "name": "ServiceNow Storage Sizing Calculator",
+  "description": "Enterprise presales and capacity planning web application for ServiceNow instance storage consumption, multi-year forecasting, non-PROD modeling, sensitivity analysis, and AI-assisted governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
